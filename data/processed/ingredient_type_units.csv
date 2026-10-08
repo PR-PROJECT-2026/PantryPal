@@ -1,0 +1,16 @@
+ingredient_type,ingredient_count,recipe_ingredient_rows,observed_units,observed_unit_dimensions
+Bakery & Pasta,57,331,"cup, g, tbsp","mass, volume"
+Dairy & Eggs,94,4889,"can, cup, g, inch, kg, l, lb, ml, packet, slice, tbsp, tsp","count, mass, volume"
+Fruits,149,3625,"cup, g, inch, kg, l, large, lb, ml, small, sprig, tbsp, tsp","count, mass, volume"
+Grains & Flours,119,2774,"cup, g, kg, slice, tbsp, tsp","count, mass, volume"
+Herbs,63,5870,"clove, cup, g, small, sprig, tbsp, tsp","count, mass, volume"
+Liquids,32,1597,"cup, l, ml, tbsp, tsp",volume
+Meat & Seafood,70,1219,"cup, g, kg, large, lb, packet, tbsp, tsp","count, mass, volume"
+Nuts & Seeds,35,1675,"cup, g, tbsp, tsp","mass, volume"
+Oils & Fats,27,4123,"big, cup, g, ml, small, tbsp, tsp","count, mass, volume"
+Other / needs review,425,2189,"bunch, can, clove, cup, g, inch, kg, lb, ml, sprig, tbsp, tsp","count, mass, volume"
+Packaged & Prepared,87,830,"clove, cup, g, small, tbsp, tsp","count, mass, volume"
+Pulses & Legumes,65,2325,"big, cup, g, inch, tbsp, tsp","count, mass, volume"
+Spices & Seasonings,223,18961,"big, clove, cup, g, inch, large, small, tbsp, tsp","count, mass, volume"
+Sweeteners,47,2498,"cup, g, inch, kg, l, ml, tbsp, tsp","count, mass, volume"
+Vegetables,312,19884,"big, clove, cup, g, inch, kg, large, piece, small, sprig, tbsp, tsp","count, mass, volume"
